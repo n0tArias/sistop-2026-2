@@ -1,5 +1,9 @@
 # Minishell en Python
 
+**Autores**
+*Santiago Bello
+*Baruc López
+
 En esta tarea se implementa un interprete de comandos basicos en Python, el programa es compatible con sistemas Unix/Linux.
 
 ## Instrucciones de compilacion y ejecución
